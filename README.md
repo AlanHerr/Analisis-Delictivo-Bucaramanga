@@ -11,6 +11,7 @@ Este proyecto presenta un análisis exploratorio y visualización de los datos d
 
 ## Contenido
 - **`Proyecto.ipynb`**: El archivo Jupyter Notebook que contiene el proceso de limpieza, transformación y análisis de los datos delictivos.
+- **`Datos Limpios`**: El archivo `Informacion_Delictiva_Bucaramanga.csv` contiene el dataset resultante luego de la limpieza de datos. Este archivo se puede utilizar para realizar análisis adicionales o verificar los resultados obtenidos.
 - **Dashboard Interactivo**: [Explora el dashboard en Looker Studio](https://lookerstudio.google.com/reporting/723316c6-a501-4df2-8e08-121dba0b2617)
 
 ## Dataset
