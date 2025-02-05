@@ -1,0 +1,10 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints
